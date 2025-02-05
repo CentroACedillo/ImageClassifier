@@ -19,7 +19,7 @@ function preload() {
     arduinoUnoImg = loadImage("data/arduino_uno.jpg");
     bareConductiveImg = loadImage("data/bare_conductive.jpg");
     arduinoBleImg = loadImage("data/arduino_ble.jpg");
-    esp32Img = loadImage("data/sparkfun.jpg");
+    sparkfun = loadImage("data/sparkfun.jpg");
    
 
 }
